@@ -9,9 +9,6 @@ Zudomart is a visionary digital platform designed to **empower African entrepren
 ## 🚀 Live Website
 
 🌐 [View Zudomart Live on GitHub Pages](https://yourusername.github.io/zudomart/)
-
-> (Replace with your actual GitHub Pages link after deployment)
-
 ---
 
 ## 📋 Project Description
@@ -37,11 +34,9 @@ It’s a digital playground for the next generation of African entrepreneurs —
   - Scalability Plan
   - Team Members
   - Pitch Deck Link
-  - Contact (via WhatsApp)
+  - Contact
 - ✅ Lightweight HTML, CSS, and JavaScript
 - ✅ Clean, editable structure for future backend integration
-- ✅ Uses free assets (icons, illustrations from [unDraw](https://undraw.co))
-
 ---
 
 ## 📈 How Zudomart Intends to Scale
