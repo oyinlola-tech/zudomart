@@ -8,7 +8,7 @@ Zudomart is a visionary digital platform designed to **empower African entrepren
 
 ## 🚀 Live Website
 
-🌐 [View Zudomart Live on GitHub Pages](https://yourusername.github.io/zudomart/)
+🌐 [View Zudomart Live on GitHub Pages](https://zudomart.vercel.app/)
 ---
 
 ## 📋 Project Description
